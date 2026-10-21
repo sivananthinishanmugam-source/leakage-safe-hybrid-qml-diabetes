@@ -1,3 +1,0 @@
-label_a,label_b,auc_a,auc_b,diff_pct,se_diff,z_stat,p_value,significant_at_0.05,ci_lower_95,ci_upper_95
-Hybrid,XGBoost,88.13,87.33,0.8,0.013321,0.5978,0.55,False,-1.81,3.41
-Hybrid,VQC (LDA),88.13,84.07,4.06,0.020222,2.0055,0.0449,True,0.09,8.02

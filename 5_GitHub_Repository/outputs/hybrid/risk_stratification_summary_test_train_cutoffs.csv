@@ -1,4 +1,0 @@
-Risk Group,Observed Test Score Range,N Patients,Observed Diabetes Rate,Mean Hybrid Score,Min Score,Max Score
-Low,"[0.102, 0.303]",74,8.1%,0.1966,0.1021,0.3026
-Moderate,"[0.307, 0.481]",30,30.0%,0.3927,0.3073,0.4809
-High,"[0.499, 0.891]",50,78.0%,0.7299,0.4985,0.891

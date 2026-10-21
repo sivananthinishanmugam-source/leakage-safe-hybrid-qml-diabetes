@@ -1,8 +1,0 @@
-Configuration,Accuracy,Precision,Recall,Specificity,F1,MCC,ROC_AUC,PR_AUC,Description
-Full Hybrid (Baseline),83.77,75.44,79.63,86.0,77.48,0.6486,88.13,83.04,"XGB calibrated (quantile) + VQC raw, ω=0.5, τ=0.45"
-No Calibration (raw probs),78.57,64.38,87.04,74.0,74.02,0.5833,88.06,83.25,"XGB=0.5, VQC=0.5, raw proba, t=0.45"
-"No Quantum (XGBoost only, t=0.45)",81.17,74.51,70.37,87.0,72.38,0.5817,87.48,82.4,"XGB=1.0, VQC=0.0, calibrated, t=0.45"
-"No Quantum (XGBoost only, t=0.50)",80.52,74.0,68.52,87.0,71.15,0.5658,87.48,82.4,"XGB=1.0, VQC=0.0, calibrated, t=0.50"
-No Threshold Opt. (t=0.50),82.47,77.55,70.37,89.0,73.79,0.6082,88.13,83.04,"XGB=0.8, VQC=0.2, calibrated, t=0.50"
-Equal Weights (0.5/0.5),83.77,75.44,79.63,86.0,77.48,0.6486,88.13,83.04,"XGB=0.5, VQC=0.5, calibrated, t=0.45"
-VQC Only,67.53,52.17,88.89,56.0,65.75,0.4368,84.07,76.64,"XGB=0.0, VQC=1.0, calibrated, t=0.45"

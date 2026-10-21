@@ -1,6 +1,0 @@
-Model,ECE,Brier Score,ROC-AUC,Interpretation
-XGBoost (raw),0.0796,0.1347,87.33,Good
-XGBoost (calibrated),0.0862,0.1362,87.48,Good
-VQC (raw),0.2153,0.1908,84.07,Poor
-VQC (no calibration),0.2153,0.1908,84.07,Poor
-Hybrid (calibrated),0.0904,0.1359,88.13,Good

@@ -1,7 +1,0 @@
-Configuration,Δ Accuracy,Δ Recall,Δ F1,Δ MCC,Δ ROC_AUC
-No Calibration (raw probs),-5.2,7.41,-3.46,-0.07,-0.07
-"No Quantum (XGBoost only, t=0.45)",-2.6,-9.26,-5.1,-0.07,-0.65
-"No Quantum (XGBoost only, t=0.50)",-3.25,-11.11,-6.33,-0.08,-0.65
-No Threshold Opt. (t=0.50),-1.3,-9.26,-3.69,-0.04,0.0
-Equal Weights (0.5/0.5),0.0,0.0,0.0,0.0,0.0
-VQC Only,-16.24,9.26,-11.73,-0.21,-4.06
