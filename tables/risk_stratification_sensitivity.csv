@@ -1,0 +1,7 @@
+Configuration,Risk Group,N,Diabetes Rate (%),Low Cutoff,High Cutoff
+Tertile (33/66),Low,51,5.9,0.2294,0.4746
+Tertile (33/66),Moderate,52,21.2,0.2294,0.4746
+Tertile (33/66),High,51,78.4,0.2294,0.4746
+Quartile (25/75),Low,39,5.1,0.2095,0.6455
+Quartile (25/75),Moderate,76,27.6,0.2095,0.6455
+Quartile (25/75),High,39,79.5,0.2095,0.6455

@@ -1,0 +1,2 @@
+Accuracy,Precision,Recall,Specificity,F1,MCC,ROC_AUC,PR_AUC,TN,FP,FN,TP,Fusion_XGB,Fusion_VQC,Threshold,XGB_calibration,VQC_calibration,n_test
+83.77,75.44,79.63,86.0,77.48,0.6486,88.13,83.04,86,14,11,43,0.5,0.5,0.45,"Quantile (10 bins, train-fitted)","None — non-monotonic mapping detected, raw probs used",154

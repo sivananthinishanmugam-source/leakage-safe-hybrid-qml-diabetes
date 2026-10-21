@@ -1,0 +1,25 @@
+Model,Metric,Bootstrap Mean,Bootstrap Median,95% CI Lower,95% CI Upper,Std Dev
+Hybrid,Accuracy,83.91,84.09,77.92,89.61,2.93
+Hybrid,Precision,75.68,75.93,64.4,86.37,5.69
+Hybrid,Recall (Sensitivity),79.69,80.0,68.52,89.59,5.45
+Hybrid,Specificity,86.16,86.27,79.0,92.45,3.47
+Hybrid,F1-Score,77.48,77.88,68.63,85.49,4.41
+Hybrid,MCC,0.65,0.66,0.52,0.76,0.06
+Hybrid,ROC-AUC,88.27,88.4,82.39,93.46,2.95
+Hybrid,PR-AUC,83.39,83.77,74.27,91.11,4.36
+XGBoost,Accuracy,81.25,81.82,74.68,87.01,3.14
+XGBoost,Precision,70.59,70.83,59.32,81.36,5.77
+XGBoost,Recall (Sensitivity),79.69,80.0,68.52,89.59,5.45
+XGBoost,Specificity,82.07,82.24,73.68,89.11,3.85
+XGBoost,F1-Score,74.71,75.0,65.34,82.93,4.56
+XGBoost,MCC,0.6,0.61,0.47,0.73,0.07
+XGBoost,ROC-AUC,87.5,87.61,81.51,92.95,3.03
+XGBoost,PR-AUC,82.82,83.05,73.31,90.92,4.39
+VQC (LDA),Accuracy,73.36,73.38,66.87,79.87,3.52
+VQC (LDA),Precision,58.66,58.57,47.94,69.62,5.65
+VQC (LDA),Recall (Sensitivity),81.3,81.82,70.69,91.31,5.41
+VQC (LDA),Specificity,69.05,68.87,60.0,78.22,4.63
+VQC (LDA),F1-Score,67.99,68.18,58.62,76.69,4.76
+VQC (LDA),MCC,0.48,0.48,0.35,0.61,0.07
+VQC (LDA),ROC-AUC,84.08,84.02,76.9,90.53,3.48
+VQC (LDA),PR-AUC,77.1,77.44,64.1,86.69,5.73
