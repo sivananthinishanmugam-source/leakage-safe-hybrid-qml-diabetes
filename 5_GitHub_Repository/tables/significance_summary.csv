@@ -1,0 +1,5 @@
+Test,Statistic,p-value,Significant (0.05),Interpretation
+McNemar's (Hybrid vs XGBoost),chi2=2.25,0.1336,False,Not significant (p=0.1336) — insufficient power at n=154
+McNemar's (Hybrid vs VQC),chi2=7.0312,0.008,True,Significant — Hybrid significantly better (p=0.008)
+DeLong (Hybrid vs XGBoost AUC),Z=0.5978,0.55,False,"Not significant: AUC diff=+0.80%, 95%CI [-1.81, 3.41]% — includes 0"
+DeLong (Hybrid vs VQC AUC),Z=2.0055,0.0449,True,"Significant AUC improvement: +4.06%, 95%CI [0.09, 8.02]%"

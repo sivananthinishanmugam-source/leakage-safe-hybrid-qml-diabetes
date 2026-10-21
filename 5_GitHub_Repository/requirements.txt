@@ -1,0 +1,19 @@
+# Python 3.11
+# Versions pinned below are the ones reported in the manuscript (Section 4.5)
+qiskit==1.1.1
+qiskit-machine-learning==0.8.2
+qiskit-aer==0.14.2
+qiskit-algorithms==0.3.0
+scikit-learn==1.5.1
+xgboost==2.1.1
+
+# Supporting libraries
+imbalanced-learn
+shap
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+joblib
+jupyter
